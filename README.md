@@ -1,3 +1,3 @@
 # teashopweb
-My first web page
-Hope ypu enjoy viewing my first project.
+My first web page.
+Hope you enjoy viewing my first project.
